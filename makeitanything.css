@@ -1,6 +1,11 @@
-body{
+body {
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/pointer.png), default;
 }
+
 button {
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/click.png), pointer;
+}
+
+p,h1,h2,h3,h4,h5,h6 {
+  cursor: url(https://lisgnewspaperarchival.github.io/cursors/text.png), text;
 }
