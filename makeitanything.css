@@ -1,6 +1,5 @@
 body {
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/pointer.png), default;
-  background: rgb(25,189,8);
   background: linear-gradient(180deg, rgba(25,189,8,1) 0%, rgba(48,142,8,1) 100%);
 }
 
