@@ -13,6 +13,7 @@ button {
   border: 2px solid #999999;
   border-radius: 3px;
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/click.png), pointer;
+  font-size: 175%;
 }
 button:hover {
   background: linear-gradient(180deg, rgba(210,224,224,1) 0%, rgba(182,199,200,1) 100%);
