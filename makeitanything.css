@@ -9,14 +9,18 @@ a {
 }
 
 button {
-  background: linear-gradient(180deg, rgba(237,237,237,1) 0%, rgba(199,199,199,1) 100%);
+  background: linear-gradient(180deg, rgba(241,241,241,1) 0%, rgba(241,241,241,1) 40%, rgba(210,210,210,1) 60%, rgba(210,210,210,1) 100%);
   border: 2px solid #999999;
-  border-radius: 3px;
+  border-radius: 6px;
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/click.png), pointer;
-  font-size: 175%;
+  font-size: 60%;
+  padding: 5px;
+  padding-right: 20px;
+  padding-left: 20px;
+  transition-duration: 0.2s;
 }
 button:hover {
-  background: linear-gradient(180deg, rgba(210,224,224,1) 0%, rgba(182,199,200,1) 100%);
+  background: linear-gradient(180deg, rgba(222,242,252,1) 0%, rgba(222,242,252,1) 40%, rgba(178,224,249,1) 60%, rgba(178,224,249,1) 100%);
   border: 2px solid #79C0C7;
 }
 
