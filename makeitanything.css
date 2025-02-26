@@ -5,6 +5,7 @@ body {
 
 a {
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/click.png), pointer;
+  font-size: 200%;
 }
 
 button {
@@ -25,8 +26,4 @@ p,h1,h2,h3,h4,h5,h6 {
 
 h1 {
   font: "Brush Script MT";
-}
-
-a {
-  font-size: 200%;
 }
