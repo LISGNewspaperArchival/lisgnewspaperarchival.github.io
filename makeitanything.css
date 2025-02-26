@@ -11,3 +11,7 @@ p,h1,h2,h3,h4,h5,h6 {
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/text.png), text;
   text-align: center;
 }
+
+h1 {
+  font: "Brush Script MT";
+}
