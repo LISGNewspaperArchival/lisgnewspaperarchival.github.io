@@ -30,9 +30,9 @@ p,h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  font: "Brush Script MT";
+  font-family: "Brush Script MT";
 }
 
 p {
-  font: "Trebuchet MS";
+  font-family: "Trebuchet MS";
 }
