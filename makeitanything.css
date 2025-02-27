@@ -10,7 +10,7 @@ a {
 
 button {
   background: linear-gradient(180deg, rgba(241,241,241,1) 0%, rgba(241,241,241,1) 40%, rgba(210,210,210,1) 60%, rgba(210,210,210,1) 100%);
-  border: 2px solid #666666;
+  border: 2px solid #888888;
   border-radius: 7px;
   cursor: url(https://lisgnewspaperarchival.github.io/cursors/click.png), pointer;
   font-size: 60%;
